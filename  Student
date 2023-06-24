@@ -1,0 +1,2 @@
+class Student:
+    total_students = 0
